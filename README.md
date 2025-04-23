@@ -48,9 +48,9 @@ This is a learning project meant for educational purposes.
 The model is not fine-tuned or optimized for any specific downstream task yet.
 
 The architecture is intentionally simple and easy to modify.
+```
 
-
-Acknowledgements
+### Acknowledgements
 Huge thanks to Andrej Karpathy for the amazing Zero-to-Hero series and all open-source contributors in the ML/NLP community.
 
   
